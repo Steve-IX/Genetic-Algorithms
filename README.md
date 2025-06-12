@@ -96,7 +96,3 @@ The script then loads or generates a binary map, evolves a population until conv
 | Parallel evaluation         | Wrap fitness calls in `parfor`; all functions are side-effect free.                        |
 
 ---
-
-## License
-
-MIT. Experiment, benchmark, and integrate the planner into your own robotics or optimisation projects. Pull requests for new operators or performance improvements are very welcome.
